@@ -14,6 +14,7 @@ h1
 body
 {
     text-align: center;
+    font-size: 1.3em;
 }
 
 #bloc_page
@@ -29,13 +30,30 @@ body
 
 p
 {
-    font-size: 1.3em;
+    font-size: 1em;
     border: 1px green solid;
     border-radius: 5px;
-    width: 60%;
+    width: 63%;
     text-align: left;
-    margin-left: 20%;
+    margin-left: 17%;
     padding: 17px;
+}
+
+ul
+{
+    width: 63%;
+    text-align: left;
+    list-style-type: none;
+    margin-left: 17%;
+    padding-top: 0px;
+    border: 1px green solid;
+    border-radius: 10px;
+    padding-right: 2px;
+}
+
+li
+{
+    margin-top: 15px;
 }
 
 .home-paragraphe :hover
